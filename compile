@@ -1,0 +1,2 @@
+#!/bin/sh
+emcc -o main.html main.c -s USE_PTHREADS=1
